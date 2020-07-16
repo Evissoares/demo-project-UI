@@ -1,4 +1,35 @@
+@charset "utf8";
 
+thead {
+    font-size: 18pt;
+    color: #f8f8f8;
+}
+
+tbody {
+    
+    font-size: 14pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+th {
+    display: flexbox;
+    width: 300px;
+    height: 40px;
+    background-color: #5c6577;
+    
+    
+}
+
+tr {
+    display: flexbox;
+    background-color: #b4b2b2;
+    
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
 
 /*
 Copyright Google LLC. All Rights Reserved.
